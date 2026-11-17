@@ -1,0 +1,13 @@
+/bin/
+/dist/
+/tasks/
+*.exe
+*.log
+*.db
+*.db-wal
+*.db-shm
+*.test
+coverage.out
+.env
+.env.*
+.gemini/
